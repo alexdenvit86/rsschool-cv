@@ -44,7 +44,7 @@ the most common worldwide among ordinary users. Therefore, my main goal is to ga
 ## Courses:
   * **EXP-50R500RU** _Experion PKS: Fundamentals - Configuration, Graphics Builder and Control Strategy Implementation_
   * **7009** _DeltaV Implementation I_
-  
+
 ## Languages:
 * **Russian** - native speaker
 * **English** - A1
