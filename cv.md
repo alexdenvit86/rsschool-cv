@@ -3,7 +3,7 @@
 * **Location:** Kazan city, Tatarstan  Republic, Russia
 * **Phone:** +7(843) 526-73-10
 * **E-mail:** <alexden@npk-va.com>
-
+пше
 ## About Me:
 I am 35 years old. I've been working for the same company for 13 years. I went from an engineer to the head of the software department. I develop software for industrial automation and control systems.
 
@@ -44,7 +44,7 @@ the most common worldwide among ordinary users. Therefore, my main goal is to ga
 ## Courses:
   * **EXP-50R500RU** _Experion PKS: Fundamentals - Configuration, Graphics Builder and Control Strategy Implementation_
   * **7009** _DeltaV Implementation I_
-  
+
 ## Languages:
 * **Russian** - native speaker
 * **English** - A1
