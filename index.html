@@ -36,15 +36,15 @@
             </section>
             <section class="section" id="contacts">
                 <h2 class="section-title">Contacts</h2>
-                <ui>
+                <ul>
                     <li>Location: Kazan city, Tatarstan  Republic, Russia</li>
                     <li>Phone: +7(843) 526-73-10</li>
                     <li>E-mail: alexden@npk-va.com</li>
-                </ui>
+                </ul>
             </section>
             <section class="section" id="skills">
                 <h2 class="section-title">Skills</h2>
-                <ui>
+                <ul>
                     <li>Systems of industrial automatization and control</li>
                     <li>Team management</li>
                     <li>DCS, Honeywell, Siemens, Emerson</li>
@@ -52,7 +52,7 @@
                     <li>C/C++, Matlab, VB, SCL, LAD, FBD</li>
                     <li>TIA Portal, WinCC, WinCC OA</li>
                     <li>HTML5, CSS3, VS Code, Git, JavaScript</li>
-                </ui>
+                </ul>
             </section>
             <section class="section" id="education">
                 <h2 class="section-title">Education</h2>
@@ -62,17 +62,17 @@
             </section>
             <section class="section" id="courses">
                 <h2 class="section-title">Courses</h2>
-                <ui>
+                <ul>
                     <li>EXP-50R500RU Experion PKS: Fundamentals - Configuration, Graphics Builder and Control Strategy Implementation</li>
                     <li>7009 DeltaV Implementation I</li>
-                </ui>
+                </ul>
             </section>
             <section class="section" id="language">
                 <h2 class="section-title">Language</h2>
-                <ui>
+                <ul>
                     <li>Russian - native speaker</li>
                     <li>English - A1</li>
-                </ui>
+                </ul>
             </section>
             <section class="section" id="summary">
                 <h2 class="section-title">Summary</h2>
@@ -92,7 +92,7 @@
                 <h2 class="section-title">Code</h2>
                 <pre class="code-title">
                     <code>
-for (COUNT = 1; COUNT <= ITER; COUNT++)
+for (COUNT = 1; COUNT = ITER; COUNT++)
 {
     Qm_old = Qm;
     Re_old = Re;
@@ -110,11 +110,6 @@ for (COUNT = 1; COUNT <= ITER; COUNT++)
     Qm = (0.25*Pi*powf(dm, 2.0))*Ksh*Kp*E*C*eps*powf(2.0*RO*DPress, 0.5);	
     Re = (4.0/Pi)*(Qm /(DT*MU));
     delta = fabs((Qm-Qm_old)/Qm);
-                    
-    if (delta < 0.000001)
-    {
-        break;
-    }
 }
                     </code>
                 </pre>
